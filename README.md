@@ -54,6 +54,9 @@ A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKris15&theme=tokyonight" height="150"/>
 </p>
 
+![snake gif](https://github.com/AKris15/AKris15/blob/output/github-snake-dark.svg)
+
+
 ---
 
 ### 🌐 Connect with Me:
@@ -77,3 +80,4 @@ A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **
 ---
 
 ⭐ _"With great power comes great responsibility, and with great code comes great debugging."_  
+
