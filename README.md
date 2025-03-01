@@ -1,5 +1,5 @@
-<h1 align="center">Heya!! I'm <span style="color:#B22222;"><b>AK🩸</b></span> </h1>
-<h3 align="center">An Indian Engineer (Work in Progress~) ⚙️</h3>
+<h1 align="center">Heya, I'm <span style="color:#B22222;"><b>AK🩸 !!</b></span> </h1>
+<h3 align="center">An Indian Ai Engineer (Work in Progress~) ⚙️</h3>
 
 ---
 
@@ -15,6 +15,8 @@ A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **
 - 🔥 **Member of the FOSS Club | Open-source enthusiast**  
 - 🥷 **Introvert by nature, a shadow clone by spirit**  
 - 🎌 **Certified Weeb** (Naruto, AOT, Bleach, DBZ—you name it!)  
+- 🌙 **A nature soul—mesmerized by the moon, enchanted by clouds, thrilled by thunder, and at peace with the rain.**  
+- ⚡ **Find me gazing at the night sky, vibing to rain, or lost in thoughts like a true lone wolf.**  
 
 ---
 
@@ -56,7 +58,6 @@ A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **
 
 ![snake gif](https://github.com/AKris15/AKris15/blob/output/github-snake-dark.svg)
 
-
 ---
 
 ### 🌐 Connect with Me:
@@ -80,4 +81,3 @@ A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **
 ---
 
 ⭐ _"With great power comes great responsibility, and with great code comes great debugging."_  
-
