@@ -1,4 +1,4 @@
-name: Snake Game
+name: GitHub Snake Game
 
 on:
   # Schedule the workflow to run daily at midnight UTC
@@ -32,9 +32,9 @@ jobs:
 
           # Define the output files and their configurations
           outputs: |
-            dist/github-snake.svg?color_snake=black&color_dots=#ebedf0,#800000,#B22222,#FF0000,#FF6347,#FFA07A&color_background=white
-            dist/github-snake-dark.svg?color_snake=white&color_dots=#ebedf0,#800000,#B22222,#FF0000,#FF6347,#FFA07A&color_background=black
-            dist/ocean.gif?color_snake=blue&color_dots=#ebedf0,#800000,#B22222,#FF0000,#FF6347,#FFA07A
+            dist/github-snake.svg?color_snake=##220000,#550000,#880000,#BB0000,#FF5050&growth=true
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=##220000,#550000,#880000,#BB0000,#FF5050&growth=true
+            dist/ocean.gif?color_snake=#FF0000&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&growth=true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -46,4 +46,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           # Optionally, you can set a custom commit message
-          commit_message: "Update snake animation"
+          commit_message: "Update snake animation [skip ci]"
