@@ -13,35 +13,29 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Generate Snake for Light Mode
+      # Generate Snake for Light Mode (SVG + GIF)
       - name: Generate Snake Animation (Light Mode)
         uses: Platane/snk@v3
         with:
           github_user_name: AKris15
+          outputs: |
+            dist/github-contribution-grid-snake-light.svg
+            dist/github-contribution-grid-snake-light.gif
           color_snake: "#000000" # Black Snake
           color_dots: "#800000,#B22222,#FF0000,#FF6347" # Dark to Light Red Commits
           color_background: "#FFFFFF" # White Background
-          outputs: dist/github-contribution-grid-snake-light.svg
 
-      # Generate Snake for Dark Mode
+      # Generate Snake for Dark Mode (SVG + GIF)
       - name: Generate Snake Animation (Dark Mode)
         uses: Platane/snk@v3
         with:
           github_user_name: AKris15
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.gif
           color_snake: "#FFFFFF" # White Snake
           color_dots: "#800000,#B22222,#FF0000,#FF6347" # Dark to Light Red Commits
           color_background: "#000000" # Black Background
-          outputs: dist/github-contribution-grid-snake-dark.svg
-          
-
-      # Generate GIFs separately
-      - name: Generate Snake GIF (Light Mode)
-        run: |
-          docker run --rm ghcr.io/platane/snk generate --github-user AKris15 --output dist/github-contribution-grid-snake-light.gif --color-snake "#000000" --color-dots "#800000,#B22222,#FF0000,#FF6347" --color-background "#FFFFFF"
-      
-      - name: Generate Snake GIF (Dark Mode)
-        run: |
-          docker run --rm ghcr.io/platane/snk generate --github-user AKris15 --output dist/github-contribution-grid-snake-dark.gif --color-snake "#FFFFFF" --color-dots "#800000,#B22222,#FF0000,#FF6347" --color-background "#000000"
 
       - name: Commit and Push changes
         run: |
