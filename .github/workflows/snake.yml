@@ -1,11 +1,8 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
 name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */6 * * *"
-
   workflow_dispatch:
 
 jobs:
@@ -13,21 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Generate the Snake Contribution Graph with custom colors and dark background
-      - name: Generate Snake Animation
+      # Generate Snake for Light Mode
+      - name: Generate Snake Animation (Light Mode)
         uses: Platane/snk@v3
         with:
           github_user_name: AKris15
-          outputs: dist/github-contribution-grid-snake.svg, dist/github-contribution-grid-snake.gif
-          color_snake: "#FFFFFF" # White Snake
-          color_dots: "#FF0000,#FF0000" # Red commits
-          color_background: "#000000" # Dark background (Black)
+          outputs: dist/github-contribution-grid-snake-light.svg, dist/github-contribution-grid-snake-light.gif
+          color_snake: "#000000" # Black Snake
+          color_dots: "#800000,#B22222,#FF0000,#FF6347" # Dark to Light Red Commits
+          color_background: "#FFFFFF" # White Background
 
-      # Commit and push changes
+      # Generate Snake for Dark Mode
+      - name: Generate Snake Animation (Dark Mode)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AKris15
+          outputs: dist/github-contribution-grid-snake-dark.svg, dist/github-contribution-grid-snake-dark.gif
+          color_snake: "#FFFFFF" # White Snake
+          color_dots: "#800000,#B22222,#FF0000,#FF6347" # Dark to Light Red Commits
+          color_background: "#000000" # Black Background
+
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
@@ -36,7 +41,6 @@ jobs:
           git commit -m "Updated Snake Contribution Graph 🐍" || echo "No changes to commit"
           git push origin main
 
-      # Deploy the Snake animation to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
