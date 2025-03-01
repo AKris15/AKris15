@@ -1,4 +1,4 @@
-name: GitHub Snake Game
+name: Snake Game
 
 on:
   # Schedule the workflow to run daily at midnight UTC
@@ -32,9 +32,9 @@ jobs:
 
           # Define the output files and their configurations
           outputs: |
-            dist/github-snake.svg?color_snake=black&color_dots=#800000,#B22222,#FF0000,#FF6347,#FFA07A&color_background=white
-            dist/github-snake-dark.svg?color_snake=white&color_dots=#800000,#B22222,#FF0000,#FF6347,#FFA07A&color_background=black
-            dist/ocean.gif?color_snake=orange&color_dots=#800000,#B22222,#FF0000,#FF6347,#FFA07A
+            dist/github-snake.svg?color_snake=black&color_dots=#ebedf0,#800000,#B22222,#FF0000,#FF6347,#FFA07A&color_background=white
+            dist/github-snake-dark.svg?color_snake=white&color_dots=#ebedf0,#800000,#B22222,#FF0000,#FF6347,#FFA07A&color_background=black
+            dist/ocean.gif?color_snake=blue&color_dots=#ebedf0,#800000,#B22222,#FF0000,#FF6347,#FFA07A
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
