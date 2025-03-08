@@ -52,8 +52,17 @@ A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **
 
 ### 📊 My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKris15&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKris15&theme=tokyonight" height="150"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AKris15&show_icons=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AKris15&show_icons=true&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api?username=AKris15&show_icons=true&theme=light" height="150"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AKris15&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AKris15&theme=light">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKris15&theme=light" height="150"/>
+  </picture>
 </p>
 
 <picture>
