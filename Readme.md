@@ -5,7 +5,8 @@
 
 ### 🚀 The Journey So Far:
 A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **AI & ML story quest 🚀**—but the real main quest?  
-**Open-source domination, cybersecurity, and endless learning!** Maybe... just maybe, I’ll become a **Certified Ethical Hacker (CEH)** someday! 🛡️💻  
+**Open-source domination, and endless learning!** Maybe... just maybe, I’ll make Something CRAZYY someday! 🛡️💻  
+🔗 Check out [ShAKTI](https://github.com/AKris15/ShAKti) — My latest open-source project... still in progress!
 
 ---
 
@@ -15,7 +16,6 @@ A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **
 - 🔥 **Member of the FOSS Club | Open-source enthusiast**  
 - 🥷 **Introvert by nature, a shadow clone by spirit**  
 - 🎌 **Certified Weeb** (Naruto, AOT, Bleach, DBZ—you name it!)  
-- 🌙 **A nature soul—mesmerized by the moon, enchanted by clouds, thrilled by thunder, and at peace with the rain.**  
 - ⚡ **Find me gazing at the night sky, vibing to rain, or lost in thoughts like a true lone wolf.**  
 
 ---
