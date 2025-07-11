@@ -11,7 +11,7 @@ A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **
 ---
 
 ### 🧐 About Me:
-- 🎓 **First-year BTech AIML student, still debugging Life.**  
+- 🎓 **Second-year BTech AIML student, still debugging Life.**  
 - 💻 **Love coding but... not my strongest jutsu in studies 😅**  
 - 🔥 **Member of the FOSS Club | Open-source enthusiast**  
 - 🥷 **Introvert by nature, a shadow clone by spirit**  
