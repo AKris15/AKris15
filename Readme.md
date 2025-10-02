@@ -1,27 +1,32 @@
-<h1 align="center">Heya, I'm <span style="color:#B22222;"><b>AK🩸 !!</b></span> </h1>
-<h3 align="center">An Indian Ai Engineer (Work in Progress~) ⚙️</h3>
+<h1 align="center">Heya, I'm <span style="color:#B22222;"><b>AK 🪈 !!</b></span> 🕷️</h1>
+<h3 align="center">Divine Coder | AI & ML Explorer | Open-Source Enthusiast ⚙️</h3>
 
 ---
 
-### 🚀 The Journey So Far:
-A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **AI & ML story quest 🚀**—but the real main quest?  
-**Open-source domination, and endless learning!** Maybe... just maybe, I’ll make Something CRAZYY someday! 🛡️💻  
-🔗 Check out [ShAKTI](https://github.com/AKris15/ShAKti) — My latest open-source project... still in progress!
+### 🚀 My Journey
+
+I’m **Krish Gupta**, a tech enthusiast navigating code like Krishna plays his flute 🪈, while swinging through life like Spider-Man 🕷️.
+My quests? **Mastering open-source, building inspired projects, and learning endlessly.**
+
+🔗 Check out [ShAKti](https://github.com/AKris15/ShAKti) — my Sanskrit-inspired programming language in progress.
 
 ---
 
-### 🧐 About Me:
-- 🎓 **Second-year BTech AIML student, still debugging Life.**  
-- 💻 **Love coding but... not my strongest jutsu in studies 😅**  
-- 🔥 **Member of the FOSS Club | Open-source enthusiast**  
-- 🥷 **Introvert by nature, a shadow clone by spirit**  
-- 🎌 **Certified Weeb** (Naruto, AOT, Bleach, DBZ—you name it!)  
-- ⚡ **Find me gazing at the night sky, vibing to rain, or lost in thoughts like a true lone wolf.**  
+### 🧐 About Me
+
+* 🎓 **2nd-year BTech AIML student**, still debugging Life.
+* 💻 **Passionate about clean, elegant code with a touch of divine inspiration.**
+* 🔥 **FOSS Club member**, sharing tools and knowledge with the community.
+* 🥷 **Introvert at heart, lone wolf in spirit.**
+* 🎌 **Certified weeb** (Naruto, AOT, Bleach, DBZ…)
+* 🪈 **Enjoy long nights, rainy vibes, and getting lost in thought while playing the mental flute.**
 
 ---
 
-### 🛠 Tech Stack:
-#### 💻 Programming & Development:
+### 🛠 Tech Stack
+
+#### 💻 Programming & Development
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -30,17 +35,18 @@ A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 
-#### ⚙️ Tools & Platforms:
+#### ⚙️ Tools & Platforms
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 </p>
 
-#### 🎨 Design & Creativity:
+#### 🎨 Design & Creativity
+
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
@@ -50,7 +56,19 @@ A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **
 
 ---
 
-### 📊 My GitHub Stats:
+### 📜 Projects & Achievements
+
+* **ShAKti & Namo Developer** — Sanskrit-inspired programming language & minimalist editor 🕷️🪈
+* **OS Flip Script** — Seamlessly switch operating systems with Python magic
+* **CTF Technovate** — 4th place in college cybersecurity Capture the Flag 🕷️
+* **FOSS Hack 5.0** — Shared knowledge, tools, and automation with open-source enthusiasts
+
+🔗 Explore my **portfolio**: [akris.is-a.dev](https://akris.is-a.dev)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AKris15&show_icons=true&theme=tokyonight">
@@ -73,27 +91,17 @@ A techy, moody guy **nerfed** with the name Krish Gupta, grinding through the **
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://instagram.com/n0n3.ak" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://x.com/AKris15" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/AKris15" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/akris15" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+  <a href="https://instagram.com/n0n3.ak" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/AKris15" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/AKris15" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discord.com/users/akris15" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ---
 
-### 🚀 Fun Fact:
-> **"I’m not the Hokage yet, but believe it, I’ll be something great."** 🦊🔥  
+### 🌌 Fun AK Fact
 
----
-
-⭐ _"With great power comes great responsibility, and with great code comes great debugging."_  
+> I may not be swinging through skyscrapers or playing a cosmic flute on Vrindavan hills yet, but the adventure is only beginning. 🕷️🪈
